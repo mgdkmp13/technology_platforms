@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E931B604-E9A2-4651-A9C4-ACEEB751A583}|lab8_2\\lab8_2.csproj|c:\\users\\magda\\desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\createform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E931B604-E9A2-4651-A9C4-ACEEB751A583}|lab8_2\\lab8_2.csproj|solutionrelative:lab8_2\\createform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E931B604-E9A2-4651-A9C4-ACEEB751A583}|lab8_2\\lab8_2.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E931B604-E9A2-4651-A9C4-ACEEB751A583}|lab8_2\\lab8_2.csproj|solutionrelative:lab8_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E931B604-E9A2-4651-A9C4-ACEEB751A583}|lab8_2\\lab8_2.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E931B604-E9A2-4651-A9C4-ACEEB751A583}|lab8_2\\lab8_2.csproj|solutionrelative:lab8_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E931B604-E9A2-4651-A9C4-ACEEB751A583}|lab8_2\\lab8_2.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E931B604-E9A2-4651-A9C4-ACEEB751A583}|lab8_2\\lab8_2.csproj|solutionrelative:lab8_2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E931B604-E9A2-4651-A9C4-ACEEB751A583}|lab8_2\\lab8_2.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\createform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E931B604-E9A2-4651-A9C4-ACEEB751A583}|lab8_2\\lab8_2.csproj|solutionrelative:lab8_2\\createform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\CreateForm.xaml.cs",
+              "RelativeDocumentMoniker": "lab8_2\\CreateForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\CreateForm.xaml.cs",
+              "RelativeToolTip": "lab8_2\\CreateForm.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:26:28.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\CreateForm.xaml",
+              "RelativeDocumentMoniker": "lab8_2\\CreateForm.xaml",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\CreateForm.xaml",
+              "RelativeToolTip": "lab8_2\\CreateForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T17:12:51.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "lab8_2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\App.xaml.cs",
+              "RelativeToolTip": "lab8_2\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:11:51.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab8_2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\MainWindow.xaml",
+              "RelativeToolTip": "lab8_2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T12:11:02.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab8_2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab8_2\\lab8_2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab8_2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAUwOQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:11:00.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

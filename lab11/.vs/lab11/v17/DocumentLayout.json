@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06166A41-1745-4CD0-A40C-AF359FDE5E7F}|lab11\\lab11.csproj|c:\\users\\magda\\desktop\\studia\\sem4\\platformy_technologiczne\\lab11\\lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06166A41-1745-4CD0-A40C-AF359FDE5E7F}|lab11\\lab11.csproj|solutionrelative:lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06166A41-1745-4CD0-A40C-AF359FDE5E7F}|lab11\\lab11.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab11\\lab11\\fibonaccibackgroundworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06166A41-1745-4CD0-A40C-AF359FDE5E7F}|lab11\\lab11.csproj|solutionrelative:lab11\\fibonaccibackgroundworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FibonacciBackgroundWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab11\\lab11\\FibonacciBackgroundWorker.cs",
+              "RelativeDocumentMoniker": "lab11\\FibonacciBackgroundWorker.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab11\\lab11\\FibonacciBackgroundWorker.cs",
+              "RelativeToolTip": "lab11\\FibonacciBackgroundWorker.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:24:22.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab11\\lab11\\Program.cs",
+              "RelativeDocumentMoniker": "lab11\\Program.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab11\\lab11\\Program.cs",
+              "RelativeToolTip": "lab11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:25:48.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

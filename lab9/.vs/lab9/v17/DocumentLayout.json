@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEA4CD7-D5C2-4188-9DB3-5D2FBB1AFBA4}|lab9\\lab9.csproj|c:\\users\\magda\\desktop\\studia\\sem4\\platformy_technologiczne\\lab9\\lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEA4CD7-D5C2-4188-9DB3-5D2FBB1AFBA4}|lab9\\lab9.csproj|solutionrelative:lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEA4CD7-D5C2-4188-9DB3-5D2FBB1AFBA4}|lab9\\lab9.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab9\\lab9\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEA4CD7-D5C2-4188-9DB3-5D2FBB1AFBA4}|lab9\\lab9.csproj|solutionrelative:lab9\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEA4CD7-D5C2-4188-9DB3-5D2FBB1AFBA4}|lab9\\lab9.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab9\\lab9\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEA4CD7-D5C2-4188-9DB3-5D2FBB1AFBA4}|lab9\\lab9.csproj|solutionrelative:lab9\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab9\\lab9\\Engine.cs",
+              "RelativeDocumentMoniker": "lab9\\Engine.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab9\\lab9\\Engine.cs",
+              "RelativeToolTip": "lab9\\Engine.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:26:38.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab9\\lab9\\Car.cs",
+              "RelativeDocumentMoniker": "lab9\\Car.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab9\\lab9\\Car.cs",
+              "RelativeToolTip": "lab9\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:25:51.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab9\\lab9\\Program.cs",
+              "RelativeDocumentMoniker": "lab9\\Program.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab9\\lab9\\Program.cs",
+              "RelativeToolTip": "lab9\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA1wBIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:17:39.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

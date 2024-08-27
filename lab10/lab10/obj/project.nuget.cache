@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwEXLPIzPxOOLqj3yBC8VUfRRlTNr4zI6XHA7UkC1VFTVI6+3hheHAvFEqgy4PT+b8hr3BNEn5H1Dj7fhFAG1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\lab10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Magda\\.nuget\\packages\\comparenetobjects\\4.83.0\\comparenetobjects.4.83.0.nupkg.sha512",
+    "C:\\Users\\Magda\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Magda\\.nuget\\packages\\rainbow.core\\2.1.4\\rainbow.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\Magda\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Magda\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Magda\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Magda\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „Rainbow.Core 2.1.4” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1” zamiast platformy docelowej projektu „net8.0-windows7.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "Rainbow.Core",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

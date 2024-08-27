@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13E73F40-7982-4DDC-84F9-075F7678350B}|la12_klient\\la12_klient.csproj|c:\\users\\magda\\desktop\\studia\\sem4\\platformy_technologiczne\\lab12\\la12_klient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E73F40-7982-4DDC-84F9-075F7678350B}|la12_klient\\la12_klient.csproj|solutionrelative:la12_klient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBB098A-CF7C-4110-AEE2-DF94C65D2BCE}|lab12\\lab12.csproj|c:\\users\\magda\\desktop\\studia\\sem4\\platformy_technologiczne\\lab12\\lab12\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBB098A-CF7C-4110-AEE2-DF94C65D2BCE}|lab12\\lab12.csproj|solutionrelative:lab12\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab12\\la12_klient\\Client.cs",
+              "RelativeDocumentMoniker": "la12_klient\\Client.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab12\\la12_klient\\Client.cs",
+              "RelativeToolTip": "la12_klient\\Client.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:54:43.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab12\\lab12\\Server.cs",
+              "RelativeDocumentMoniker": "lab12\\Server.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab12\\lab12\\Server.cs",
+              "RelativeToolTip": "lab12\\Server.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvzIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:39:11.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

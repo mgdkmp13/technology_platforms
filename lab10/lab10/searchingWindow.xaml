@@ -1,0 +1,16 @@
+﻿<Window x:Class="lab10.searchingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab10"
+        mc:Ignorable="d"
+        Title="searchingWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Search:" Margin="190,148,504,241" RenderTransformOrigin="0.444,-0.662"/>
+        <TextBox x:Name="searchValue" Margin="384,148,190,241"/>
+        <Button Content="Search" Click="search_Click" Margin="0,217,0,166" HorizontalAlignment="Center" Width="420">
+        </Button>
+
+    </Grid>
+</Window>

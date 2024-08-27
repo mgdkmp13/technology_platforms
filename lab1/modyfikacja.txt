@@ -1,0 +1,12 @@
+ public static void showApprentices(Mage mage) {
+        showApprentices(mage, "1.");
+    }
+
+    public static void showApprentices(Mage mage, String prefix) {
+        System.out.println(prefix + mage.getName());
+        int counter = 1;
+        for (Mage apprentice : mage.getApprentices()) {
+            showApprentices(apprentice, prefix + counter + ".");
+            counter++;
+        }
+    }

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|c:\\users\\magda\\desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\sortingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\sortingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\sortablebindinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\sortablebindinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\searchingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\searchingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\searchingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\searchingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\addwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\addwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\addwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\sortingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63541F5-C0E7-4A29-B6E4-4488774E42A8}|lab10\\lab10.csproj|solutionrelative:lab10\\sortingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\EditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab10\\EditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\EditWindow.xaml.cs",
+              "RelativeToolTip": "lab10\\EditWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA2wDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:04:40.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\EditWindow.xaml",
+              "RelativeDocumentMoniker": "lab10\\EditWindow.xaml",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\EditWindow.xaml",
+              "RelativeToolTip": "lab10\\EditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T21:03:32.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\AddWindow.xaml",
+              "RelativeDocumentMoniker": "lab10\\AddWindow.xaml",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\AddWindow.xaml",
+              "RelativeToolTip": "lab10\\AddWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T20:27:13.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\AddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab10\\AddWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\AddWindow.xaml.cs",
+              "RelativeToolTip": "lab10\\AddWindow.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAiwDMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:25:53.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "searchingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\searchingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab10\\searchingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\searchingWindow.xaml.cs",
+              "RelativeToolTip": "lab10\\searchingWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:35:56.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "searchingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\searchingWindow.xaml",
+              "RelativeDocumentMoniker": "lab10\\searchingWindow.xaml",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\searchingWindow.xaml",
+              "RelativeToolTip": "lab10\\searchingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T18:35:06.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SortingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\SortingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab10\\SortingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\SortingWindow.xaml.cs",
+              "RelativeToolTip": "lab10\\SortingWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwCcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:53:12.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\SortingWindow.xaml",
+              "RelativeDocumentMoniker": "lab10\\SortingWindow.xaml",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\SortingWindow.xaml",
+              "RelativeToolTip": "lab10\\SortingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T17:53:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortableBindingList.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\SortableBindingList.cs",
+              "RelativeDocumentMoniker": "lab10\\SortableBindingList.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\SortableBindingList.cs",
+              "RelativeToolTip": "lab10\\SortableBindingList.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowHsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:22:08.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\Engine.cs",
+              "RelativeDocumentMoniker": "lab10\\Engine.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\Engine.cs",
+              "RelativeToolTip": "lab10\\Engine.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:27:09.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\Car.cs",
+              "RelativeDocumentMoniker": "lab10\\Car.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\Car.cs",
+              "RelativeToolTip": "lab10\\Car.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:26:31.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab10\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\MainWindow.xaml",
+              "RelativeToolTip": "lab10\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T10:24:21.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab10\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Magda\\Desktop\\studia\\sem4\\platformy_technologiczne\\lab10\\lab10\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab10\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAewNUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:24:19.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
